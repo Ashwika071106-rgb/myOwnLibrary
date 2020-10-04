@@ -1,2 +1,2 @@
-# myOwnLibrary
-my library file to detect collisions and bounce offs
+# p5.play-boilerplate
+Boiler plate for p5.play
